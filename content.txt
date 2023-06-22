@@ -1,0 +1,64 @@
+[10133098]
+In an experiment, potato strips of the same size were cut from a potato and immersed in sucrose solutions of different concentrations for 1 day. The ratio of initial mass to final mass of each potato strip was calculated and the results were presented in a graph. Which of the following graphs shows the results of the experiment?
+A
+B
+C
+D
+Ans: D
+---------------------------------------------------
+[10133147]
+In an experiment, potato strips of the same size were cut from a potato and immersed in sucrose solutions of different concentrations for 1 day. Which of the following graphs shows the final mass of the potato strips in different sucrose solutions?
+A
+B
+C
+D
+Ans: C
+---------------------------------------------------
+[10133152]
+Which of the following comparisons between diffusion and active transport is 
+not
+ correct?
+Diffusion
+Active transport
+A
+energy is not required
+energy is required
+B
+cell membrane is required
+cell membrane is not required
+C
+substances move from a region of higher concentration to a region of lower concentration
+substances move from a region of lower concentration to a region of higher concentration
+D
+carrier proteins are not involved
+carrier proteins are involved
+Ans: B
+---------------------------------------------------
+[10133153]
+Directions
+: The following two questions refer to the investigation below. Beetroot cells contain a red pigment in the vacuoles. A student cut some cubes (1 cm x 1 cm x 1 cm) from a beetroot and washed them in running water for 20 minutes. The cubes were then put into test tubes containing distilled water and alcohol of different concentrations (W, X, Y and Z) for 30 minutes. The table below shows the colour intensity of the solutions after 30 minutes.
+Solution
+Colour intensity
+ (maximum 5+)
+Distilled water
+–
+W
++
+X
++++
+Y
++++++
+Z
+++
+(Key: ‘+’ means that the solution is red in colour. The larger the number of ‘+’, the more intense the colour. ‘–’ means that the solution is colourless)
+Which alcohol is highest in concentration?
+A
+ W
+B
+ X
+C
+ Y
+D
+ Z
+Ans: C
+---------------------------------------------------

@@ -1,0 +1,64 @@
+{
+  "filename": "usecase.docx",
+  "num_of_pages": 3,
+  "questions": [
+    {
+      "id": "2800091",
+      "title": "Q001 [10133098] In an experiment, potato strips of the same size ",
+      "category": "OEQ",
+      "prompt": "<div> <div>[10133098]</div> <div> In an experiment, potato strips of the same size were cut from a potato and immersed in sucrose solutions of different concentrations for 1 day. The ratio of initial mass to final mass of each potato strip was calculated and the results were presented in a graph. Which of the following graphs shows the results of the experiment?</div> </div>",
+      "points": 1
+    },
+    {
+      "id": "2800092",
+      "title": "Q003 In an experiment, potato strips of the same size were cut fr",
+      "category": "OEQ",
+      "prompt": "<div> <div> In an experiment, potato strips of the same size were cut from a potato and immersed in sucrose solutions of different concentrations for 1 day. Which of the following graphs shows the final mass of the potato strips in different sucrose solutions?</div> </div>",
+      "points": 1
+    },
+    {
+      "id": "2800093",
+      "title": "Q005 Which of the following comparisons between diffusion and act",
+      "category": "OEQ",
+      "prompt": "<div> <div> Which of the following comparisons between diffusion and active transport is <em><b>not</b></em> correct?</div> </div>",
+      "points": 1
+    },
+    {
+      "id": "2800094",
+      "title": "Q006 [10133153] Directions: The following two questions refer to ",
+      "category": "OEQ",
+      "prompt": "<div> <div>[10133153]</div> <div> <em><b>Directions</b></em>: The following two questions refer to the investigation below. Beetroot cells contain a red pigment in the vacuoles. A student cut some cubes (1 cm x 1 cm x 1 cm) from a beetroot and washed them in running water for 20 minutes. The cubes were then put into test tubes containing distilled water and alcohol of different concentrations (W, X, Y and Z) for 30 minutes. The table below shows the colour intensity of the solutions after 30 minutes.</div> </div>",
+      "points": 1
+    },
+    {
+      "id": "2800095",
+      "title": "Q007 Which alcohol is highest in concentration?",
+      "category": "MCQ",
+      "prompt": "<div> <div>Which alcohol is highest in concentration?</div> </div>",
+      "answers": [
+        [
+          "C"
+        ]
+      ],
+      "choices": [
+        {
+          "id": "A",
+          "content": "<div> W </div>"
+        },
+        {
+          "id": "B",
+          "content": "<div> X </div>"
+        },
+        {
+          "id": "C",
+          "content": "<div> Y </div>"
+        },
+        {
+          "id": "D",
+          "content": "<div> Z </div>"
+        }
+      ],
+      "points": 1
+    }
+  ]
+}
