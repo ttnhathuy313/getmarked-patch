@@ -35,9 +35,27 @@
     {
       "id": "2808875",
       "title": "Q003 Which of the following comparisons between diffusion and act",
-      "category": "OEQ",
+      "category": "MCQ",
       "prompt": "<div> <div> Which of the following comparisons between diffusion and active transport is <em><b>not</b></em> correct?</div> </div>",
-      "points": 1
+      "points": 1,
+      "choices": [
+        {
+          "id": "A",
+          "content": "<td>energy is not required</td><td>energy is required</td>"
+        },
+        {
+          "id": "B",
+          "content": "<td>cell membrane is required</td><td>cell membrane is not required</td>"
+        },
+        {
+          "id": "C",
+          "content": "<td>substances move from a region of higher concentration to a region of lower concentration</td><td>substances move from a region of lower concentration to a region of higher concentration</td>"
+        },
+        {
+          "id": "D",
+          "content": "<td>carrier proteins are not involved</td><td>carrier proteins are involved</td>"
+        }
+      ]
     },
     {
       "id": "2808876",
@@ -109,9 +127,27 @@
     {
       "id": "2808879",
       "title": "Q009 Which of the following shows the arrangement of the two prot",
-      "category": "OEQ",
+      "category": "MCQ",
       "prompt": "<div> <div>Which of the following shows the arrangement of the two protein molecules in the cell membrane?</div> </div>",
-      "points": 1
+      "points": 1,
+      "choices": [
+        {
+          "id": "A",
+          "content": "<td>attached to the surface of the phospholipid bilayer</td><td>embedded half-way in the phospholipid bilayer</td>"
+        },
+        {
+          "id": "B",
+          "content": "<td>embedded half-way in the phospholipid bilayer</td><td>spans the entire phospholipid bilayer</td>"
+        },
+        {
+          "id": "C",
+          "content": "<td>spans the entire phospholipid bilayer</td><td>attached to the surface of the phospholipid bilayer</td>"
+        },
+        {
+          "id": "D",
+          "content": "<td>spans the entire phospholipid bilayer</td><td>spans the entire phospholipid bilayer</td>"
+        }
+      ]
     },
     {
       "id": "2808880",

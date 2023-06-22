@@ -1,18 +1,26 @@
-[10133098]
-In an experiment, potato strips of the same size were cut from a potato and immersed in sucrose solutions of different concentrations for 1 day. The ratio of initial mass to final mass of each potato strip was calculated and the results were presented in a graph. Which of the following graphs shows the results of the experiment?
+[10133132]
+Four pieces of plant tissue, each weighed 10 g, were immersed in four different sucrose solutions. The table below shows the mass of the four pieces of tissue after 1 hour.
+Tissue
+W
+X
+Y
+Z
+Mass after 1 hour
+ (g)
+12.3
+11.4
+9.6
+7.2
+The percentage of plasmolysed cells was the highest in tissue
 A
+ W.
 B
+ X.
 C
+ Y.
 D
+ Z.
 Ans: D
----------------------------------------------------
-[10133147]
-In an experiment, potato strips of the same size were cut from a potato and immersed in sucrose solutions of different concentrations for 1 day. Which of the following graphs shows the final mass of the potato strips in different sucrose solutions?
-A
-B
-C
-D
-Ans: C
 ---------------------------------------------------
 [10133152]
 Which of the following comparisons between diffusion and active transport is 
@@ -60,5 +68,49 @@ C
  Y
 D
  Z
+Ans: C
+---------------------------------------------------
+[10133167]
+Which of the following is/are correct explanation(s) of the experimental results?
+(1) The phospholipids in the cell membrane dissolve in alcohol.
+(2) The pigment molecules are non-polar and thus can move across the phospholipid bilayer.
+(3) Carrier proteins are present on the cell membrane of the beetroot cells to transport the pigment molecules.
+A
+ (1) only
+B
+ (2) only
+C
+ (1) and (2) only
+D
+ (1), (2) and (3)
+Ans: A
+---------------------------------------------------
+Which of the following shows the arrangement of the two protein molecules in the cell membrane?
+X
+Y
+A
+attached to the surface of the phospholipid bilayer
+embedded half-way in the phospholipid bilayer
+B
+embedded half-way in the phospholipid bilayer
+spans the entire phospholipid bilayer
+C
+spans the entire phospholipid bilayer
+attached to the surface of the phospholipid bilayer
+D
+spans the entire phospholipid bilayer
+spans the entire phospholipid bilayer
+Ans: C
+[10133222]
+Which of the following correctly shows the paths through which water and fatty acid molecules move across the cell membrane?
+Water Fatty acid
+A
+ path P path P
+B
+ path P path Q
+C
+ path Q path P
+D
+ path Q path Q
 Ans: C
 ---------------------------------------------------

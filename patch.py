@@ -12,7 +12,7 @@ def fix_missing_info(path_to_doc, path_to_getmarked_output, path_to_save_output,
     convert_docx_to_html(path_to_doc, path_to_save_media)
     fix(path_to_getmarked_output, path_to_save_output)
 
-path_to_doc = './usecase.docx'
+path_to_doc = './usecase2.docx'
 path_to_getmarked_output = './output.json'
 path_to_save_output = './fix-output.json'
 # the media will be saved in path_to_save_media/media

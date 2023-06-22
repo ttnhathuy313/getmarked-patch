@@ -100,7 +100,7 @@ def fix_image_in_choicse(tag, depth = 0):
     if (isinstance(tag, NavigableString)):
         if (question_header in tag.string) and (question_header != ""):
             if (len(multiple_choices) <= 1):
-                cur_type = data_json['questions'][question_index]['category']
+                cur_type = data_json['questions'][question_index - 1]['category']
                 if (cur_type == 'OEQ'):
                     min_depth = 0
                     for choice_tag in choice_tags_list:
@@ -113,7 +113,7 @@ def fix_image_in_choicse(tag, depth = 0):
                     #climb to the common ancestors from all choice tag
                     common_ancestor = find_lca([choice_tag[1] for choice_tag in choice_tags_list])
                     choice_contents = []
-                    # print(filter_choice_from_lca(common_ancestor))
+                    filter_choice_from_lca(common_ancestor)
                     data_json['questions'][question_index - 1]['category'] = 'MCQ'
                     data_json['questions'][question_index - 1]['choices'] = [{
                         'id': choice[0],
